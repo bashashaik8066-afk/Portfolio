@@ -60,9 +60,9 @@ function Contacts() {
 
           {/* Social Links */}
           <div className="social-links">
-            <a href="#" className="social-btn">🐙 GitHub</a>
-            <a href="#" className="social-btn">💼 LinkedIn</a>
-            <a href="#" className="social-btn">🐦 Twitter</a>
+            <a href="https://instagram.com">Instagram</a>
+            <a href="https://linkedin.com">LinkedIn</a>
+            <a href="mailto:your@email.com">Email</a>
           </div>
 
         </div>
